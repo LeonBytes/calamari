@@ -12,6 +12,7 @@ It is designed to both be easy to use from the command line but also be modular 
 
 ## Documentation
 
+
 The documentation of Calamari is hosted [here](https://calamari-ocr.readthedocs.io).
 
 ##  Pretrained model repository
